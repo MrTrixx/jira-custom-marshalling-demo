@@ -13,15 +13,6 @@ import javax.ws.rs.core.MediaType;
 @Path("/demo")
 public class DemoCustomMarshallerResource {
 
-    /*
-     todo: Добавить примеры (классы + эндпоинты)
-      1) полностью с аннотациями
-      2) частично с аннотациями
-      3) без аннотаций
-      4) класс с финальными полями - создание через конструктор
-     */
-
-
     @Path("/checkJacksonMapperWithAnnotations")
     @POST
     @Produces(MediaType.APPLICATION_JSON)
