@@ -20,7 +20,7 @@
     </developers>
 
     <properties>
-        <jira.version>9.4.22</jira.version>
+        <jira.version>9.12.9</jira.version>
         <amps.version>8.7.0</amps.version>
         <osgi.javaconfig.version>0.6.0</osgi.javaconfig.version>
         <osgi.core.version>6.0.0</osgi.core.version>
